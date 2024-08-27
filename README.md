@@ -18,7 +18,7 @@
 
 **THIS IS FOR A TUTORIAL ON CREATING A PYTHON PACKAGE**
 
-The `kcalc` framework ...
+The `kcalc` framework .....
 
 ## Installation
 
