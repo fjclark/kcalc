@@ -2,7 +2,7 @@
 
 import click
 
-from . import calc_k
+from .conversion import calc_k
 
 
 @click.command
