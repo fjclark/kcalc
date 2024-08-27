@@ -9,6 +9,8 @@ dependencies:
   - pip
 
   - click
+  - numpy
+  - scipy
 
   # Dev / Testing
   - versioneer
