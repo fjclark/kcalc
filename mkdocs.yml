@@ -22,6 +22,7 @@ nav:
   - Overview: index.md
 - API reference: reference/
 - Development: development.md
+- Getting started: getting_started.md
 
 theme:
   name: material
