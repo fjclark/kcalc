@@ -1,6 +1,6 @@
 import importlib
 
-from .. import calc_k
+from ..conversion import calc_k
 
 
 def test_kcalc():
