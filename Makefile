@@ -31,8 +31,3 @@ ifndef VERSION
 	$(error VERSION is not set)
 endif
 	$(CONDA_ENV_RUN) mike deploy --push --update-aliases $(VERSION)
-
-docs-insiders:
-	$(CONDA_ENV_RUN) pip install git+https://$(INSIDER_DOCS_TOKEN)@github.com/fjclark/mkdocstrings-python.git \
-                    			 git+https://$(INSIDER_DOCS_TOKEN)@github.com/fjclark/griffe-pydantic.git@fix-inheritence-static
-
