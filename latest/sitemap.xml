@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://github.com/fjclark/kcalc/latest/getting_started/</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://github.com/fjclark/kcalc/latest/reference/</loc>
          <lastmod>2024-08-27</lastmod>
          <changefreq>daily</changefreq>
