@@ -43,6 +43,4 @@ jobs:
 
         make env
 
-        sed -i 's/# extensions/extensions/' mkdocs.yml
-
         make docs-deploy VERSION="$VERSION"
